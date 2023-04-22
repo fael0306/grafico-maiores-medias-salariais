@@ -2,4 +2,4 @@
 
 Plotando gráfico das maiores médias salariais de uma Base de Dados de salários.
 
-![Rplot09](https://user-images.githubusercontent.com/25599308/233762598-68e1b6de-b24a-423e-ad42-9fd0b603fda7.png)
+![Rplot02](https://user-images.githubusercontent.com/25599308/233766221-6144e3a6-7739-41a0-97ea-ef25c7eb89df.png)
